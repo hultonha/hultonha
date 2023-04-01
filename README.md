@@ -1,4 +1,4 @@
-### Hello, world! 👋
+# hultonha (Inactive)
 
 <!--
 **hultonha/hultonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-By day, I'm [hultonha](https://github.com/hultonha), a Software Development Manager working at Game Engine and Developer Services (AWS) on [O3DE](https://github.com/o3de/o3de#readme). By ~~night~~ early evening, I'm [pr0g](https://github.com/pr0g), usually noodling around on some C++ hobby project or other...
-
-How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tom_h_h.svg?style=social&label=Follow%20%40tom_h_h)](https://twitter.com/tom_h_h)
+Account used during tenure at Game Engine and Developer Services contributing to [Open 3D Engine (O3DE)](https://github.com/o3de/o3de#readme).
 
 Pronouns: He/Him
 
